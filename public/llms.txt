@@ -54,10 +54,6 @@ https://example.com/product/:slug
 https://example.com/category/:slug
 מוצרים - Via bikini
 
-### תודה רבה - פנייתך התקבלה | Via bikini
-https://example.com/thank-you
-תודה שפנית אלינו. הודעתך התקבלה בהצלחה. אנו ב-Via bikini, המומחים למכירת בגדי ים לנשים אונליין, נחזור אליך בהקדם.
-
 ## Legal & Policy
 
 ### Privacy Policy
