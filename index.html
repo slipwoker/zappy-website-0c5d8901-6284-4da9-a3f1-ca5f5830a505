@@ -874,8 +874,16 @@
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-treatment="fade-bleed" style="--hero-fade-color: var(--bg-light);" data-hero-type="fullscreen-scrim">
-  <img loading="eager" fetchpriority="high" class="hero-fade-img" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="A sunlit beach lifestyle photo of a confident young woman wearing a modern, flattering one-piece swimsuit in a warm sandy tone. She stands on the right side of the frame against a backdrop of soft turquoise ocean waves and clear sky, with clean negative space on the left side of the image for copy overlay." width="1200" height="600" src="/assets/site-index-hero-image-1.webp" alt="דוגמנית בבגד ים אלגנטי על חוף ים שטוף שמש">
+    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-treatment="fade-bleed" style="--hero-fade-color: var(--bg-light);; position: relative; overflow: hidden;" data-hero-type="fullscreen-scrim">
+<div class="hero-video-background">
+  <div class="hero-video-overlay"></div>
+  <video class="hero-video" autoplay="" muted="" loop="" playsinline="">
+    <source src="/assets/hero-video-black-and-white-modern-coming-soon-instagram-story-1782140138117.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <img class="hero-video-fallback" src="/assets/site-index-hero-image-1.webp" alt="Hero background" loading="lazy">
+</div>
+  <img loading="eager" fetchpriority="high" class="hero-fade-img hero-original-image-hidden" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="A sunlit beach lifestyle photo of a confident young woman wearing a modern, flattering one-piece swimsuit in a warm sandy tone. She stands on the right side of the frame against a backdrop of soft turquoise ocean waves and clear sky, with clean negative space on the left side of the image for copy overlay." width="1200" height="600" src="/assets/site-index-hero-image-1.webp" alt="דוגמנית בבגד ים אלגנטי על חוף ים שטוף שמש" style="; display: none !important;">
   <div class="hero-fade-content">
     <p class="hero-eyebrow">קולקציית קיץ 2025</p>
     <h1 class="display-xl">בגדי ים שמתאימים<br>בדיוק לך</h1>
