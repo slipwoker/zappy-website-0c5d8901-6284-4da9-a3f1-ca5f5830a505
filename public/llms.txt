@@ -79,9 +79,10 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 1**
 
 ### Amarone bikini
-https://example.com/product/amarone-bikini-sqewd1
+https://example.com/product/amarone-bikini-s3vbr2
 - Price: 240.00 ILS (sale, was 260.00 ILS)
 - Availability: In stock
+- Category: New collection 
 - SKU: Amr-001
 - Brand: Via bikini
 - Description: Deep burgundy tones, flattering cuts and effortless confidence.

@@ -1,19 +1,19 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-22T15:42:02.629Z",
+  "generated_at": "2026-06-22T15:53:51.262Z",
   "base_url": "https://example.com",
   "currency": "ILS",
   "count": 1,
   "products": [
     {
       "id": "10970716-9f21-44a5-8017-2abb5df38688",
-      "slug": "amarone-bikini-sqewd1",
+      "slug": "amarone-bikini-s3vbr2",
       "name": "Amarone bikini",
       "name_translations": {
         "en": "Amarone bikini",
         "he": "ביקיני Amarone"
       },
-      "description": "<p>Deep burgundy tones, flattering cuts and effortless confidence </p>",
+      "description": "<p>Deep burgundy tones, flattering cuts and effortless confidence</p>",
       "short_description": "Deep burgundy tones, flattering cuts and effortless confidence.",
       "sku": "Amr-001",
       "brand": "Via bikini",
@@ -29,9 +29,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/amarone-bikini-sqewd1",
-      "categories": [],
-      "updated_at": "2026-06-22T15:33:50.088Z"
+      "url": "https://example.com/product/amarone-bikini-s3vbr2",
+      "categories": [
+        "New collection "
+      ],
+      "updated_at": "2026-06-22T15:50:33.893Z"
     }
   ]
 }
