@@ -11744,6 +11744,36 @@ window.onload = function() {
 })();
 
 
+/* Added Component Script */
+/* Accessibility: Ensure buttons are keyboard accessible and announce state changes */
+document.querySelectorAll('.add-to-cart-btn').forEach(button => {
+  button.addEventListener('click', function(e) {
+    const productName = this.closest('.product-card').querySelector('.product-name').textContent;
+    // Announce to screen readers
+    const liveRegion = document.getElementById('cart-live-region') || createLiveRegion();
+    liveRegion.textContent = `${productName} נוסף לסל הקניות`;
+    
+    // Visual feedback
+    this.classList.add('added');
+    this.innerHTML = '✓ נוסף לסל';
+    setTimeout(() => {
+      this.classList.remove('added');
+      this.innerHTML = 'הוסיפי לסל <span class="btn-icon" aria-hidden="true">🛒</span>';
+    }, 2000);
+  });
+});
+
+function createLiveRegion() {
+  const region = document.createElement('div');
+  region.id = 'cart-live-region';
+  region.setAttribute('aria-live', 'polite');
+  region.setAttribute('aria-atomic', 'true');
+  region.style.cssText = 'position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0;';
+  document.body.appendChild(region);
+  return region;
+}
+
+
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
   try {
