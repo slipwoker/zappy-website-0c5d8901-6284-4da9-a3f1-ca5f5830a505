@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://via-bikini-0c5d8901.zappy5.app
+https://example.com
 חנות בגדי ים אונליין עם קולקציית ביקיני וחזיות משולשים מעוצבות. כנסי עכשיו למצוא את בגד הים שיחמיא לך ויקפיץ כל הופעה בחוף.
 
 ### מדריך התאמה וטיפול
-https://via-bikini-0c5d8901.zappy5.app/fit-care-guide
+https://example.com/fit-care-guide
 המדריך השלם להתאמה וטיפול נכון בבגדי הים שלך. גלי טיפים מקצועיים לשמירה על הגזרה, הבד והצבע כדי שתיהני מהביקיני האהוב עונה אחר עונה.
 
 ### אודות ויה ביקיני
-https://via-bikini-0c5d8901.zappy5.app/about
+https://example.com/about
 הכירי את ויה ביקיני, מותג בגדי ים לנשים שנולד מאהבה לים ולסגנון. גלי מי אנחנו, מה מניע אותנו ולמה כל ביקיני שלנו מספר סיפור של ביטחון ויופי.
 
 ### צור קשר
-https://via-bikini-0c5d8901.zappy5.app/contact
+https://example.com/contact
 רוצה לשאול על מידות, בדים או המלצה אישית? צרי קשר עם צוות ויה ביקיני ונחזור אלייך במהירות עם כל התשובות כדי שתמצאי את בגד הים המושלם.
 
 ### Products
-https://via-bikini-0c5d8901.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Via bikini
 
 ### Cart
-https://via-bikini-0c5d8901.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://via-bikini-0c5d8901.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://via-bikini-0c5d8901.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://via-bikini-0c5d8901.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://via-bikini-0c5d8901.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://via-bikini-0c5d8901.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Via bikini
 
 ### Category
-https://via-bikini-0c5d8901.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Via bikini
 
 ### תודה רבה - פנייתך התקבלה | Via bikini
-https://via-bikini-0c5d8901.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית אלינו. הודעתך התקבלה בהצלחה. אנו ב-Via bikini, המומחים למכירת בגדי ים לנשים אונליין, נחזור אליך בהקדם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://via-bikini-0c5d8901.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://via-bikini-0c5d8901.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://via-bikini-0c5d8901.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -100,8 +100,8 @@ Fashion & Swimwear E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://via-bikini-0c5d8901.zappy5.app/sitemap.xml
-- Robots: https://via-bikini-0c5d8901.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://via-bikini-0c5d8901.zappy5.app/llms-full.txt
-- Products (JSON): https://via-bikini-0c5d8901.zappy5.app/products.json
-- Products (Google Merchant RSS): https://via-bikini-0c5d8901.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
