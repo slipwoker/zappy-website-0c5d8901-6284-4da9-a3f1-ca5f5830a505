@@ -4,6 +4,22 @@
     <title>Via bikini</title>
     <link>https://example.com</link>
     <description>Product feed for Via bikini</description>
-    <lastBuildDate>Mon, 22 Jun 2026 15:18:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 15:39:54 GMT</lastBuildDate>
+    <item>
+      <g:id>10970716-9f21-44a5-8017-2abb5df38688</g:id>
+      <g:title>Amarone bikini</g:title>
+      <g:description>Deep burgundy tones, flattering cuts and effortless confidence.</g:description>
+      <g:link>https://example.com/product/amarone-bikini-sqewd1</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1782142048131-uhq9n4.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1782142084761-ie03c.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1782142120618-owxygm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782142080765-x4o0h.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>260.00 ILS</g:price>
+      <g:sale_price>240.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Via bikini</g:brand>
+      <g:mpn>Amr-001</g:mpn>
+    </item>
   </channel>
 </rss>
