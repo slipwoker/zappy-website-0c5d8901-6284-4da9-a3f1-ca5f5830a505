@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@400;500;600;700&display=swap');
 
 /* Self-hosted fonts (Inter + Rubik for multi-language support) */
 
@@ -108,7 +108,13 @@
   --surface-color: #F9FAFB;
   --text-color: #4A4A4A;
   --text-secondary-color: #707070;
-}
+
+  --heading-font: 'Roboto', sans-serif;
+  --font-heading: 'Roboto', sans-serif;
+  --body-font: 'Assistant', sans-serif;
+  --font-family: 'Assistant', sans-serif;
+  --font-primary: 'Assistant', sans-serif;
+  --font-body: 'Assistant', sans-serif;}
 
 /* CSS Reset/Normalize */
 *, *::before, *::after {
@@ -164,13 +170,13 @@ html {
 body {
   font-size: 16px !important;
   line-height: 1.7 !important;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   color: var(--text-dark);
   background-color: var(--bg-light);
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 h1 {
@@ -270,7 +276,7 @@ a:hover {
   transition: var(--transition-hover);
   cursor: pointer;
   border: 2px solid transparent;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 16px;
   line-height: 1.2;
   text-decoration: none;
@@ -358,7 +364,7 @@ html:not([dir]) .whatsapp-float {
 }
 
 /* Navbar Styles */
-@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@400;600;700&display=swap');
+
 
 :root {
   --primary: #664200;
@@ -384,7 +390,7 @@ html:not([dir]) .whatsapp-float {
 
 body {
   margin: 0;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
 }
 
 .navbar {
@@ -595,7 +601,7 @@ body {
     font-size: 0.9rem;
   }
 }
-@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@400;600;700&display=swap');
+
 
 :root {
   --primary: #664200;
@@ -621,7 +627,7 @@ body {
 
 body {
   margin: 0;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
 }
 
 .navbar {
@@ -1108,7 +1114,7 @@ html[lang="ar"] .nav-right-group .nav-menu {
   background: none;
   border: none;
   cursor: pointer;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 0.9rem;
   font-weight: 500;
   display: inline-flex;
@@ -1951,7 +1957,7 @@ main:not(.courses-page-main) { margin-top: 0 !important; padding-top: 0 !importa
 
   background-color: var(--footer-bg);
   color: var(--footer-text);
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   line-height: 1.7;
   padding: 0;
   margin: 0;
@@ -2396,7 +2402,7 @@ main { flex: 1 0 auto; }
   text-transform: uppercase;
   color: var(--primary);
   margin-bottom: 16px;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
 }
 
 .index-hero-section .display-xl {
@@ -2404,7 +2410,7 @@ main { flex: 1 0 auto; }
   font-weight: 300;
   letter-spacing: -0.01em;
   line-height: 1.05;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   color: var(--text-dark);
   margin: 0 0 24px 0;
   max-width: 600px;
@@ -2414,7 +2420,7 @@ main { flex: 1 0 auto; }
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.3;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   color: var(--text-muted);
   margin: 0 0 40px 0;
   max-width: 500px;
@@ -2441,7 +2447,7 @@ main { flex: 1 0 auto; }
   text-decoration: none;
   display: inline-block;
   transition: all 0.3s ease;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
 }
 
 .index-hero-section .btn-primary:hover {
@@ -2464,7 +2470,7 @@ main { flex: 1 0 auto; }
   display: inline-block;
   cursor: pointer;
   transition: all 0.3s ease;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
 }
 
 .index-hero-section .btn-secondary:hover {
@@ -2570,7 +2576,7 @@ main { flex: 1 0 auto; }
 }
 
 .index-features-section__title {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Assistant', sans-serif;
     font-size: 2rem;
     font-weight: 400;
     letter-spacing: -0.01em;
@@ -2581,7 +2587,7 @@ main { flex: 1 0 auto; }
 }
 
 .index-features-section__subtitle {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Assistant', sans-serif;
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.7;
@@ -2632,7 +2638,7 @@ main { flex: 1 0 auto; }
 }
 
 .index-features-section__card-title {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Assistant', sans-serif;
     font-size: 1.5rem;
     font-weight: 400;
     line-height: 1.3;
@@ -2642,7 +2648,7 @@ main { flex: 1 0 auto; }
 }
 
 .index-features-section__card-text {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Assistant', sans-serif;
     font-size: 0.9rem;
     font-weight: 400;
     line-height: 1.7;
@@ -2727,7 +2733,7 @@ main { flex: 1 0 auto; }
 }
 
 .index-showcase-heading {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   letter-spacing: -0.01em;
@@ -2737,7 +2743,7 @@ main { flex: 1 0 auto; }
 }
 
 .index-showcase-paragraph {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 0.9rem;
   font-weight: 400;
   line-height: 1.7;
@@ -2788,7 +2794,7 @@ main { flex: 1 0 auto; }
 }
 
 .index-showcase-blurb-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.3;
@@ -2797,7 +2803,7 @@ main { flex: 1 0 auto; }
 }
 
 .index-showcase-blurb-text {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 0.9rem;
   font-weight: 400;
   line-height: 1.7;
@@ -2977,7 +2983,7 @@ main { flex: 1 0 auto; }
 }
 
 .index-testimonials-section .testimonials-header h2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   letter-spacing: -0.01em;
@@ -2989,7 +2995,7 @@ main { flex: 1 0 auto; }
 }
 
 .index-testimonials-section .testimonials-header p {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.7;
@@ -3037,7 +3043,7 @@ main { flex: 1 0 auto; }
 }
 
 .index-testimonials-section .testimonial-card h3 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.3;
@@ -3048,7 +3054,7 @@ main { flex: 1 0 auto; }
 }
 
 .index-testimonials-section .testimonial-card p {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.7;
@@ -3059,7 +3065,7 @@ main { flex: 1 0 auto; }
 }
 
 .index-testimonials-section .testimonial-author {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 0.875rem;
   font-weight: 500;
   letter-spacing: 0.04em;
@@ -3152,7 +3158,7 @@ main { flex: 1 0 auto; }
 }
 
 .index-cta-section__heading {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 2rem;
   font-weight: 600;
   color: var(--text-dark);
@@ -3232,7 +3238,7 @@ main { flex: 1 0 auto; }
 }
 
 .fit-care-guide-intro-section__header h1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 3rem;
   font-weight: 400;
   line-height: 1.2;
@@ -3242,7 +3248,7 @@ main { flex: 1 0 auto; }
 }
 
 .fit-care-guide-intro-section__header p {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.75;
@@ -3292,7 +3298,7 @@ main { flex: 1 0 auto; }
 }
 
 .fit-care-guide-intro-section__support-text h3 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.3;
@@ -3301,7 +3307,7 @@ main { flex: 1 0 auto; }
 }
 
 .fit-care-guide-intro-section__support-text p {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 0.9rem;
   font-weight: 400;
   line-height: 1.7;
@@ -3411,7 +3417,7 @@ main { flex: 1 0 auto; }
 }
 
 .fit-care-guide-benefits-section__title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   letter-spacing: -0.01em;
@@ -3464,7 +3470,7 @@ main { flex: 1 0 auto; }
 }
 
 .fit-care-guide-benefits-section__card-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1.375rem;
   font-weight: 500;
   line-height: 1.4;
@@ -3473,7 +3479,7 @@ main { flex: 1 0 auto; }
 }
 
 .fit-care-guide-benefits-section__card-text {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.7;
@@ -3551,7 +3557,7 @@ main { flex: 1 0 auto; }
 }
 
 .fit-care-guide-gallery-section__title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 2rem;
   font-weight: 600;
   line-height: 1.3;
@@ -3561,7 +3567,7 @@ main { flex: 1 0 auto; }
 }
 
 .fit-care-guide-gallery-section__subtitle {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.7;
@@ -3615,7 +3621,7 @@ main { flex: 1 0 auto; }
 }
 
 .fit-care-guide-gallery-section__tile-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1.375rem;
   font-weight: 500;
   line-height: 1.4;
@@ -3625,7 +3631,7 @@ main { flex: 1 0 auto; }
 }
 
 .fit-care-guide-gallery-section__tile-text {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.7;
@@ -3713,7 +3719,7 @@ main { flex: 1 0 auto; }
 }
 
 .fit-care-guide-process-section__heading {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   letter-spacing: -0.01em;
@@ -3724,7 +3730,7 @@ main { flex: 1 0 auto; }
 }
 
 .fit-care-guide-process-section__subtitle {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.7;
@@ -3763,7 +3769,7 @@ main { flex: 1 0 auto; }
 }
 
 .fit-care-guide-process-section__step-number {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1.125rem;
   font-weight: 600;
   letter-spacing: 0.05em;
@@ -3777,7 +3783,7 @@ main { flex: 1 0 auto; }
 }
 
 .fit-care-guide-process-section__step-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.3;
@@ -3787,7 +3793,7 @@ main { flex: 1 0 auto; }
 }
 
 .fit-care-guide-process-section__step-text {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 0.9rem;
   font-weight: 400;
   line-height: 1.7;
@@ -3873,7 +3879,7 @@ main { flex: 1 0 auto; }
 }
 
 .fit-care-guide-faq-section__title {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Assistant', sans-serif;
     font-size: 2rem;
     font-weight: 400;
     letter-spacing: -0.01em;
@@ -3920,7 +3926,7 @@ main { flex: 1 0 auto; }
 }
 
 .faq-item__question {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Assistant', sans-serif;
     font-size: 1.375rem;
     font-weight: 500;
     line-height: 1.4;
@@ -3930,7 +3936,7 @@ main { flex: 1 0 auto; }
 }
 
 .faq-item__answer {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Assistant', sans-serif;
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.7;
@@ -3992,7 +3998,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-story-section__headline {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 3rem;
   font-weight: 400;
   letter-spacing: -0.01em;
@@ -4003,7 +4009,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-story-section__narrative {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.75;
@@ -4026,7 +4032,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-story-section__value-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.3;
@@ -4050,7 +4056,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-story-section__value-text {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 0.9rem;
   font-weight: 400;
   line-height: 1.7;
@@ -4164,7 +4170,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-values-section__heading {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   letter-spacing: -0.01em;
@@ -4175,7 +4181,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-values-section__subtitle {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.75;
@@ -4223,7 +4229,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-values-section__card-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.3;
@@ -4232,7 +4238,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-values-section__card-text {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 0.9rem;
   font-weight: 400;
   line-height: 1.7;
@@ -4297,7 +4303,7 @@ main { flex: 1 0 auto; }
   background: var(--bg-light);
   color: var(--text-dark);
   padding: 100px 0 60px 0;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
 }
 
 .about-portfolio-section .portfolio-container {
@@ -4315,7 +4321,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-portfolio-section .portfolio-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   letter-spacing: -0.01em;
@@ -4495,7 +4501,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-reviews-section__title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   letter-spacing: -0.01em;
@@ -4506,7 +4512,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-reviews-section__subtitle {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.75;
@@ -4550,7 +4556,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-reviews-section__quote-text {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1.25rem;
   font-weight: 400;
   line-height: 1.6;
@@ -4569,7 +4575,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-reviews-section__author-name {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1rem;
   font-weight: 600;
   font-style: normal;
@@ -4578,7 +4584,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-reviews-section__author-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 0.875rem;
   font-weight: 400;
   color: var(--text-muted);
@@ -4662,7 +4668,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-mission-section__heading {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   letter-spacing: -0.01em;
@@ -4674,7 +4680,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-mission-section__text {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.75;
@@ -4691,7 +4697,7 @@ main { flex: 1 0 auto; }
   padding: 14px 28px;
   border-radius: var(--radius-btn);
   border: none;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-weight: 600;
   font-size: 0.875rem;
   letter-spacing: 0.5px;
@@ -4742,7 +4748,7 @@ main { flex: 1 0 auto; }
   position: relative;
   overflow: visible;
   padding: 120px 16px 100px;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
 }
 
 .contact-contact-intro-container {
@@ -4765,7 +4771,7 @@ main { flex: 1 0 auto; }
 }
 
 .contact-contact-intro-heading {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 3rem;
   font-weight: 400;
   letter-spacing: -0.01em;
@@ -4794,7 +4800,7 @@ main { flex: 1 0 auto; }
 }
 
 .contact-contact-intro-blurb-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.3;
@@ -4911,7 +4917,7 @@ main { flex: 1 0 auto; }
   padding: 100px 16px 120px;
   overflow: visible;
   direction: rtl;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
 }
 
 .contact-contact-form-section__container {
@@ -4927,7 +4933,7 @@ main { flex: 1 0 auto; }
 }
 
 .contact-contact-form-section__title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   letter-spacing: -0.01em;
@@ -4986,7 +4992,7 @@ main { flex: 1 0 auto; }
   width: 100%;
   padding: 14px 16px;
   font-size: 16px;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   color: var(--text-dark);
   background-color: #FFFFFF;
   border: 1px solid var(--border-light);
@@ -5059,7 +5065,7 @@ main { flex: 1 0 auto; }
   letter-spacing: 0.5px;
   cursor: pointer;
   transition: all 0.3s ease;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   margin-top: 8px;
 }
 
@@ -5081,7 +5087,7 @@ main { flex: 1 0 auto; }
 }
 
 .contact-contact-form-section__info-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.3;
@@ -5252,7 +5258,7 @@ main { flex: 1 0 auto; }
 }
 
 .contact-assurance-section .contact-assurance-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   letter-spacing: -0.01em;
@@ -5263,7 +5269,7 @@ main { flex: 1 0 auto; }
 }
 
 .contact-assurance-section .contact-assurance-subtitle {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.7;
@@ -5313,7 +5319,7 @@ main { flex: 1 0 auto; }
 }
 
 .contact-assurance-section .contact-assurance-card-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1.375rem;
   font-weight: 500;
   line-height: 1.4;
@@ -5323,7 +5329,7 @@ main { flex: 1 0 auto; }
 }
 
 .contact-assurance-section .contact-assurance-card-text {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.7;
@@ -5404,7 +5410,7 @@ main { flex: 1 0 auto; }
 }
 
 .contact-questions-section__title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   letter-spacing: -0.01em;
@@ -5415,7 +5421,7 @@ main { flex: 1 0 auto; }
 }
 
 .contact-questions-section__subtitle {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.7;
@@ -5469,7 +5475,7 @@ main { flex: 1 0 auto; }
 }
 
 .contact-questions-section__question {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.3;
@@ -5493,7 +5499,7 @@ main { flex: 1 0 auto; }
 }
 
 .contact-questions-section__answer {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.7;
@@ -5513,7 +5519,7 @@ main { flex: 1 0 auto; }
 
 /* Global font override - exclude icon fonts and special elements */
 *:not(.fas):not(.far):not(.fab):not(.fa):not([class*="fa-"]):not(.iconify):not([class*="icon"]):not(code):not(pre):not(i[class*="fa"]) {
-  font-family: 'Rubik', sans-serif !important;
+  font-family: 'Assistant', sans-serif !important;
 }
 
 
@@ -10898,7 +10904,6 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 .navbar .nav-cta-btn,
 .nav-cta-btn { color: #FFFFFF !important; }
 /* === BUTTON TEXT OVERRIDES END === */
-
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
