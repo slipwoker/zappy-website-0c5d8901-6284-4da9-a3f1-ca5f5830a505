@@ -1,17 +1,17 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-22T15:57:13.490Z",
+  "generated_at": "2026-06-23T05:37:58.115Z",
   "base_url": "https://example.com",
   "currency": "ILS",
   "count": 1,
   "products": [
     {
       "id": "10970716-9f21-44a5-8017-2abb5df38688",
-      "slug": "amarone-bikini-s3vbr2",
-      "name": "Amarone bikini",
+      "slug": "amarone-set-nfu469",
+      "name": "Amarone set",
       "name_translations": {
-        "en": "Amarone bikini",
-        "he": "ביקיני Amarone"
+        "en": "Amarone set",
+        "he": "סט אמרונה"
       },
       "description": "<p>Deep burgundy tones, flattering cuts and effortless confidence</p>",
       "short_description": "Deep burgundy tones, flattering cuts and effortless confidence.",
@@ -22,18 +22,17 @@
       "sale_price": 240,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1782142048131-uhq9n4.webp",
-        "https://example.com/assets/product-ai-fit-1782142084761-ie03c.webp",
-        "https://example.com/assets/product-ai-fit-1782142120618-owxygm.webp",
-        "https://example.com/assets/product-1782142080765-x4o0h.webp"
+        "https://example.com/assets/product-ai-fit-1782192826063-hrts7h.webp",
+        "https://example.com/assets/product-ai-fit-1782192898776-lyfom.webp",
+        "https://example.com/assets/product-enhanced-1782191601628-r7wce9.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/amarone-bikini-s3vbr2",
+      "url": "https://example.com/product/amarone-set-nfu469",
       "categories": [
         "New collection "
       ],
-      "updated_at": "2026-06-22T15:50:33.893Z"
+      "updated_at": "2026-06-23T05:35:33.677Z"
     }
   ]
 }

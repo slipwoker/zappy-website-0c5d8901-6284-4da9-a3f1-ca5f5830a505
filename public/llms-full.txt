@@ -5133,8 +5133,8 @@ Via bikini מספקת Fashion & Swimwear E-commerce דרך האתר. השירו�
 
 ## Product Catalog
 
-### Amarone bikini
-URL: https://example.com/product/amarone-bikini-s3vbr2
+### Amarone set
+URL: https://example.com/product/amarone-set-nfu469
 Price: 240.00 ILS (sale, was 260.00 ILS)
 Availability: In stock
 SKU: Amr-001
