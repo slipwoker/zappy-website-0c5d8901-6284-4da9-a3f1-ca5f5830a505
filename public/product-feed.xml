@@ -4,12 +4,132 @@
     <title>Via bikini</title>
     <link>https://example.com</link>
     <description>Product feed for Via bikini</description>
-    <lastBuildDate>Tue, 23 Jun 2026 05:37:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 05:39:12 GMT</lastBuildDate>
     <item>
-      <g:id>10970716-9f21-44a5-8017-2abb5df38688</g:id>
-      <g:title>Amarone set</g:title>
+      <g:id>10970716-9f21-44a5-8017-2abb5df38688__d606d390-338d-40d0-8cec-508d1635c6cd</g:id>
+      <g:title>Amarone set - 3XL</g:title>
       <g:description>Deep burgundy tones, flattering cuts and effortless confidence.</g:description>
       <g:link>https://example.com/product/amarone-set-nfu469</g:link>
+      <g:item_group_id>10970716-9f21-44a5-8017-2abb5df38688</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-ai-fit-1782192826063-hrts7h.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1782192898776-lyfom.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-enhanced-1782191601628-r7wce9.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>260.00 ILS</g:price>
+      <g:sale_price>240.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Via bikini</g:brand>
+      <g:mpn>Amr-001</g:mpn>
+      <g:product_type>New collection </g:product_type>
+    </item>
+    <item>
+      <g:id>10970716-9f21-44a5-8017-2abb5df38688__ab90a1e1-ed98-4c86-b662-240d826be419</g:id>
+      <g:title>Amarone set - XXS</g:title>
+      <g:description>Deep burgundy tones, flattering cuts and effortless confidence.</g:description>
+      <g:link>https://example.com/product/amarone-set-nfu469</g:link>
+      <g:item_group_id>10970716-9f21-44a5-8017-2abb5df38688</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-ai-fit-1782192826063-hrts7h.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1782192898776-lyfom.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-enhanced-1782191601628-r7wce9.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>260.00 ILS</g:price>
+      <g:sale_price>240.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Via bikini</g:brand>
+      <g:mpn>Amr-001</g:mpn>
+      <g:product_type>New collection </g:product_type>
+    </item>
+    <item>
+      <g:id>10970716-9f21-44a5-8017-2abb5df38688__7bf94990-a70c-4571-bc40-ff63f9684a4e</g:id>
+      <g:title>Amarone set - XXL</g:title>
+      <g:description>Deep burgundy tones, flattering cuts and effortless confidence.</g:description>
+      <g:link>https://example.com/product/amarone-set-nfu469</g:link>
+      <g:item_group_id>10970716-9f21-44a5-8017-2abb5df38688</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-ai-fit-1782192826063-hrts7h.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1782192898776-lyfom.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-enhanced-1782191601628-r7wce9.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>260.00 ILS</g:price>
+      <g:sale_price>240.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Via bikini</g:brand>
+      <g:mpn>Amr-001</g:mpn>
+      <g:product_type>New collection </g:product_type>
+    </item>
+    <item>
+      <g:id>10970716-9f21-44a5-8017-2abb5df38688__2a298f15-4323-435b-b9e6-32478d16f42e</g:id>
+      <g:title>Amarone set - XL</g:title>
+      <g:description>Deep burgundy tones, flattering cuts and effortless confidence.</g:description>
+      <g:link>https://example.com/product/amarone-set-nfu469</g:link>
+      <g:item_group_id>10970716-9f21-44a5-8017-2abb5df38688</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-ai-fit-1782192826063-hrts7h.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1782192898776-lyfom.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-enhanced-1782191601628-r7wce9.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>260.00 ILS</g:price>
+      <g:sale_price>240.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Via bikini</g:brand>
+      <g:mpn>Amr-001</g:mpn>
+      <g:product_type>New collection </g:product_type>
+    </item>
+    <item>
+      <g:id>10970716-9f21-44a5-8017-2abb5df38688__e665f1b2-d020-4912-baea-3e3b9340a211</g:id>
+      <g:title>Amarone set - L</g:title>
+      <g:description>Deep burgundy tones, flattering cuts and effortless confidence.</g:description>
+      <g:link>https://example.com/product/amarone-set-nfu469</g:link>
+      <g:item_group_id>10970716-9f21-44a5-8017-2abb5df38688</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-ai-fit-1782192826063-hrts7h.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1782192898776-lyfom.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-enhanced-1782191601628-r7wce9.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>260.00 ILS</g:price>
+      <g:sale_price>240.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Via bikini</g:brand>
+      <g:mpn>Amr-001</g:mpn>
+      <g:product_type>New collection </g:product_type>
+    </item>
+    <item>
+      <g:id>10970716-9f21-44a5-8017-2abb5df38688__72006304-4dd7-4aaa-9d5f-1577b7e09738</g:id>
+      <g:title>Amarone set - M</g:title>
+      <g:description>Deep burgundy tones, flattering cuts and effortless confidence.</g:description>
+      <g:link>https://example.com/product/amarone-set-nfu469</g:link>
+      <g:item_group_id>10970716-9f21-44a5-8017-2abb5df38688</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-ai-fit-1782192826063-hrts7h.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1782192898776-lyfom.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-enhanced-1782191601628-r7wce9.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>260.00 ILS</g:price>
+      <g:sale_price>240.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Via bikini</g:brand>
+      <g:mpn>Amr-001</g:mpn>
+      <g:product_type>New collection </g:product_type>
+    </item>
+    <item>
+      <g:id>10970716-9f21-44a5-8017-2abb5df38688__899c905e-1ba9-4bc9-9c41-14f19f7099e3</g:id>
+      <g:title>Amarone set - S</g:title>
+      <g:description>Deep burgundy tones, flattering cuts and effortless confidence.</g:description>
+      <g:link>https://example.com/product/amarone-set-nfu469</g:link>
+      <g:item_group_id>10970716-9f21-44a5-8017-2abb5df38688</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-ai-fit-1782192826063-hrts7h.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1782192898776-lyfom.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-enhanced-1782191601628-r7wce9.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>260.00 ILS</g:price>
+      <g:sale_price>240.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Via bikini</g:brand>
+      <g:mpn>Amr-001</g:mpn>
+      <g:product_type>New collection </g:product_type>
+    </item>
+    <item>
+      <g:id>10970716-9f21-44a5-8017-2abb5df38688__c66d003d-c5c8-4ac8-902d-3a7d6c301405</g:id>
+      <g:title>Amarone set - XS</g:title>
+      <g:description>Deep burgundy tones, flattering cuts and effortless confidence.</g:description>
+      <g:link>https://example.com/product/amarone-set-nfu469</g:link>
+      <g:item_group_id>10970716-9f21-44a5-8017-2abb5df38688</g:item_group_id>
       <g:image_link>https://example.com/assets/product-ai-fit-1782192826063-hrts7h.webp</g:image_link>
       <g:additional_image_link>https://example.com/assets/product-ai-fit-1782192898776-lyfom.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-enhanced-1782191601628-r7wce9.webp</g:additional_image_link>
