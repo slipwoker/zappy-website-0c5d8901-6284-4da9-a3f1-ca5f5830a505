@@ -1,10 +1,41 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-23T05:48:37.309Z",
+  "generated_at": "2026-06-24T19:17:43.980Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 1,
+  "count": 2,
   "products": [
+    {
+      "id": "5b34852a-0f8f-4251-b7c3-beb8ad3bad88",
+      "slug": "lumi-set-born4j",
+      "name": "Lumi set",
+      "name_translations": {
+        "en": "Lumi set",
+        "he": "סט Lumi"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 220,
+      "base_price": 240,
+      "sale_price": 220,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782231120497-qdju5b.webp",
+        "https://example.com/assets/product-1782231141640-013ajm.webp",
+        "https://example.com/assets/product-1782231113046-x8n4i7.webp",
+        "https://example.com/assets/product-1782231128028-p1yo0k.webp",
+        "https://example.com/assets/product-1782231135262-e0c62.webp"
+      ],
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://example.com/product/lumi-set-born4j",
+      "categories": [
+        "New collection "
+      ],
+      "updated_at": "2026-06-24T16:12:08.248Z"
+    },
     {
       "id": "10970716-9f21-44a5-8017-2abb5df38688",
       "slug": "amarone-set-nfu469",

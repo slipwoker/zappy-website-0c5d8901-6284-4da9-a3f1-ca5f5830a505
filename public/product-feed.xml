@@ -4,7 +4,159 @@
     <title>Via bikini</title>
     <link>https://example.com</link>
     <description>Product feed for Via bikini</description>
-    <lastBuildDate>Tue, 23 Jun 2026 05:48:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 19:17:43 GMT</lastBuildDate>
+    <item>
+      <g:id>5b34852a-0f8f-4251-b7c3-beb8ad3bad88__0d86b023-6765-4e7e-a0e3-6932dd2da71c</g:id>
+      <g:title>Lumi set - 3XL</g:title>
+      <g:description>Lumi set</g:description>
+      <g:link>https://example.com/product/lumi-set-born4j</g:link>
+      <g:item_group_id>5b34852a-0f8f-4251-b7c3-beb8ad3bad88</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1782231120497-qdju5b.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231141640-013ajm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231113046-x8n4i7.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231128028-p1yo0k.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231135262-e0c62.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>240.00 ILS</g:price>
+      <g:sale_price>220.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Via bikini</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>New collection </g:product_type>
+    </item>
+    <item>
+      <g:id>5b34852a-0f8f-4251-b7c3-beb8ad3bad88__fd6960f5-081f-4395-ba00-6f4d90f8366e</g:id>
+      <g:title>Lumi set - XXS</g:title>
+      <g:description>Lumi set</g:description>
+      <g:link>https://example.com/product/lumi-set-born4j</g:link>
+      <g:item_group_id>5b34852a-0f8f-4251-b7c3-beb8ad3bad88</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1782231120497-qdju5b.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231141640-013ajm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231113046-x8n4i7.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231128028-p1yo0k.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231135262-e0c62.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>240.00 ILS</g:price>
+      <g:sale_price>220.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Via bikini</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>New collection </g:product_type>
+    </item>
+    <item>
+      <g:id>5b34852a-0f8f-4251-b7c3-beb8ad3bad88__7f110855-7c67-468d-9f0c-d1679a22e00c</g:id>
+      <g:title>Lumi set - XS</g:title>
+      <g:description>Lumi set</g:description>
+      <g:link>https://example.com/product/lumi-set-born4j</g:link>
+      <g:item_group_id>5b34852a-0f8f-4251-b7c3-beb8ad3bad88</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1782231120497-qdju5b.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231141640-013ajm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231113046-x8n4i7.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231128028-p1yo0k.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231135262-e0c62.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>240.00 ILS</g:price>
+      <g:sale_price>220.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Via bikini</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>New collection </g:product_type>
+    </item>
+    <item>
+      <g:id>5b34852a-0f8f-4251-b7c3-beb8ad3bad88__3bd082bd-8050-4fa4-8f6f-0bf8da402432</g:id>
+      <g:title>Lumi set - S</g:title>
+      <g:description>Lumi set</g:description>
+      <g:link>https://example.com/product/lumi-set-born4j</g:link>
+      <g:item_group_id>5b34852a-0f8f-4251-b7c3-beb8ad3bad88</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1782231120497-qdju5b.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231141640-013ajm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231113046-x8n4i7.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231128028-p1yo0k.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231135262-e0c62.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>240.00 ILS</g:price>
+      <g:sale_price>220.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Via bikini</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>New collection </g:product_type>
+    </item>
+    <item>
+      <g:id>5b34852a-0f8f-4251-b7c3-beb8ad3bad88__94f67bc6-a930-4a2c-85f5-8d41f419abad</g:id>
+      <g:title>Lumi set - M</g:title>
+      <g:description>Lumi set</g:description>
+      <g:link>https://example.com/product/lumi-set-born4j</g:link>
+      <g:item_group_id>5b34852a-0f8f-4251-b7c3-beb8ad3bad88</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1782231120497-qdju5b.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231141640-013ajm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231113046-x8n4i7.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231128028-p1yo0k.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231135262-e0c62.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>240.00 ILS</g:price>
+      <g:sale_price>220.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Via bikini</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>New collection </g:product_type>
+    </item>
+    <item>
+      <g:id>5b34852a-0f8f-4251-b7c3-beb8ad3bad88__9a1f3423-8da4-4dc0-89d2-05048e9bbef5</g:id>
+      <g:title>Lumi set - XL</g:title>
+      <g:description>Lumi set</g:description>
+      <g:link>https://example.com/product/lumi-set-born4j</g:link>
+      <g:item_group_id>5b34852a-0f8f-4251-b7c3-beb8ad3bad88</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1782231120497-qdju5b.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231141640-013ajm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231113046-x8n4i7.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231128028-p1yo0k.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231135262-e0c62.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>240.00 ILS</g:price>
+      <g:sale_price>220.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Via bikini</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>New collection </g:product_type>
+    </item>
+    <item>
+      <g:id>5b34852a-0f8f-4251-b7c3-beb8ad3bad88__e69977ab-99f8-494f-97af-69d604c43cd6</g:id>
+      <g:title>Lumi set - XXL</g:title>
+      <g:description>Lumi set</g:description>
+      <g:link>https://example.com/product/lumi-set-born4j</g:link>
+      <g:item_group_id>5b34852a-0f8f-4251-b7c3-beb8ad3bad88</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1782231120497-qdju5b.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231141640-013ajm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231113046-x8n4i7.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231128028-p1yo0k.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231135262-e0c62.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>240.00 ILS</g:price>
+      <g:sale_price>220.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Via bikini</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>New collection </g:product_type>
+    </item>
+    <item>
+      <g:id>5b34852a-0f8f-4251-b7c3-beb8ad3bad88__aece44ee-0a0c-4db7-9d7a-8bbbec899753</g:id>
+      <g:title>Lumi set - L</g:title>
+      <g:description>Lumi set</g:description>
+      <g:link>https://example.com/product/lumi-set-born4j</g:link>
+      <g:item_group_id>5b34852a-0f8f-4251-b7c3-beb8ad3bad88</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1782231120497-qdju5b.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231141640-013ajm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231113046-x8n4i7.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231128028-p1yo0k.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782231135262-e0c62.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>240.00 ILS</g:price>
+      <g:sale_price>220.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Via bikini</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>New collection </g:product_type>
+    </item>
     <item>
       <g:id>10970716-9f21-44a5-8017-2abb5df38688__d606d390-338d-40d0-8cec-508d1635c6cd</g:id>
       <g:title>Amarone set - 3XL</g:title>
