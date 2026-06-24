@@ -11412,6 +11412,20 @@ body.zappy-edit-mode .zappy-editable-video-bg {
 }
 /* /Zappy custom logo size */
 
+
+#layout-1782141389310 h2, #layout-1782141389310 p, #layout-1782141389310 a {
+  color: #FCFBF8 !important;
+}
+
+#layout-1782141389310 a.btn, #layout-1782141389310 a[data-element-id] {
+  background-color: var(--primary);
+  color: #FCFBF8 !important;
+  padding: 14px 36px;
+  border-radius: var(--radius-btn);
+  display: inline-block;
+  text-decoration: none;
+  font-weight: 600;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
